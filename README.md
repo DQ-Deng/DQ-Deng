@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DQ-Deng/DQ-Deng/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DQ-Deng/DQ-Deng/output/github-contribution-grid-snake-light.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/DQ-Deng/DQ-Deng/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!--
 **DQ-Deng/DQ-Deng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
